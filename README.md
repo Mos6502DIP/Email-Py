@@ -1,6 +1,6 @@
 # Email py
 
-This is a simple library to make sending emails im python simpler. There's not much else to say to use it just follow the example `main.py` file.
+This is a simple library to make sending emails im python simpler. There's not much else to say to use it just follow the example `main.py` file. I made this because i felt that it was messy having this at the top of any application that used it.
 
 ## How to get an email pass key
 
