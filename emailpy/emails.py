@@ -2,6 +2,8 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
+# CopyRight Peter Cakebread
+
 def send_email(sender_email, sender_password, recipient_email, subject, message):
     # Set up the MIME
     msg = MIMEMultipart()
