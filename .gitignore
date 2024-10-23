@@ -1,3 +1,6 @@
 /.venv/
 /.idea/
 *.pyc
+credentials.json
+new_version.py
+token.json
